@@ -33,3 +33,11 @@
 	float: left;
 	width: 50%;
 }
+
+.col-sm-10 {
+	margin-bottom: 20px;
+}
+
+h4 {
+	margin: 0;
+}
